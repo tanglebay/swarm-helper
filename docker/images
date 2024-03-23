@@ -1,0 +1,29 @@
+#############################################
+# PROXY
+#############################################
+
+PROXY_IMAGE="traefik:v2.11"
+
+#############################################
+# SHIMMER
+#############################################
+
+IOTA_NODE_IMAGE="iotaledger/hornet:2.0"
+IOTA_INX_INDEXER_IMAG="iotaledger/inx-indexer:1.0"
+IOTA_INX_MQTT_IMAGE="iotaledger/inx-mqtt:1.0"
+IOTA_INX_PARTICIPATION_IMAGE="iotaledger/inx-participation:1.0"
+IOTA_INX_POI_IMAGE="iotaledger/inx-poi:1.0"
+IOTA_INX_IRC_METADATA_IMAGE="iotaledger/inx-irc-metadata:1.0"
+IOTA_INX_DASHBOARD_IMAGEN="iotaledger/inx-dashboard:1.0"
+
+#############################################
+# SHIMMER
+#############################################
+
+SHIMMER_NODE_IMAGE="iotaledger/hornet:2.0"
+SHIMMER_INX_INDEXER_IMAG="iotaledger/inx-indexer:1.0"
+SHIMMER_INX_MQTT_IMAGE="iotaledger/inx-mqtt:1.0"
+SHIMMER_INX_PARTICIPATION_IMAGE="iotaledger/inx-participation:1.0"
+SHIMMER_INX_POI_IMAGE="iotaledger/inx-poi:1.0"
+SHIMMER_INX_IRC_METADATA_IMAGE="iotaledger/inx-irc-metadata:1.0"
+SHIMMER_INX_DASHBOARD_IMAGEN="iotaledger/inx-dashboard:1.0"
