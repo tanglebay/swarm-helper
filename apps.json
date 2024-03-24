@@ -1,0 +1,62 @@
+{
+  "proxy": {
+    "latest": "2.11.0",
+    "image": "traefik:v2.11"
+  },
+  "iota-node": {
+    "latest": "2.0.1",
+    "image": "iotaledger/hornet:2.0"
+  },
+  "shimmer-node": {
+    "latest": "2.0.1",
+    "image": "iotaledger/hornet:2.0"
+  },
+  "iota-dashboard": {
+    "latest": "1.0.0",
+    "image": "iotaledger/inx-dashboard:1.0"
+  },
+  "shimmer-dashboard": {
+    "latest": "1.0.0",
+    "image": "iotaledger/inx-dashboard:1.0"
+  },
+  "iota-indexer": {
+    "latest": "1.0.1",
+    "image": "iotaledger/inx-indexer:1.0"
+  },
+  "shimmer-indexer": {
+    "latest": "1.0.1",
+    "image": "iotaledger/inx-indexer:1.0"
+  },
+  "iota-mqtt": {
+    "latest": "1.0.0",
+    "image": "iotaledger/inx-mqtt:1.0"
+  },
+  "shimmer-mqtt": {
+    "latest": "1.0.0",
+    "image": "iotaledger/inx-mqtt:1.0"
+  },
+  "iota-participation": {
+    "latest": "1.0.0",
+    "image": "iotaledger/inx-participation:1.0"
+  },
+  "shimmer-participation": {
+    "latest": "1.0.0",
+    "image": "iotaledger/inx-participation:1.0"
+  },
+  "iota-poi": {
+    "latest": "1.0.0",
+    "image": "iotaledger/inx-poi:1.0"
+  },
+  "shimmer-poi": {
+    "latest": "1.0.0",
+    "image": "iotaledger/inx-poi:1.0"
+  },
+  "iota-irc-metadata": {
+    "latest": "1.0.0",
+    "image": "iotaledger/inx-irc-metadata:1.0"
+  },
+  "shimmer-irc-metadata": {
+    "latest": "1.0.0",
+    "image": "iotaledger/inx-irc-metadata:1.0"
+  }
+}
